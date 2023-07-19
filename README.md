@@ -1,3 +1,7 @@
+
+
+                                                                                  ![avatar-dajjal](https://github.com/Dajjal-sys/Readme.md/assets/40615491/fd868f06-0d8f-41ba-950a-7930b8ec53fa)
+
 # 💫 About Me:
 I am a freelance web developer and I'm trying to find work on various freelance platforms. <br>I develop my own planned projects, mostly web projects. <br>I can work with a team to gain experience.<br> I am proficient in C#, JavaScript, HTML, CSS, Bootstrap, and Node.js. <br>Currently, my learning goals are to fully learn the Blazor framework, master API coding with ASP.NET Core, and explore the .NET framework and ASP.NET framework to discover the .NET ecosystem.<br> Currently, I am developing a website called 'exactlylegal' where script and software tools can be sold, <br>and then I will start pursuing my learning goals. I believe that there are many things that need to be done and improved in the field of web development. <br>I closely follow exciting software/technology developments and try to adapt with projects. <br>If I caught your attention, you can follow me, and I assure you that you won't get bored.
 
